@@ -1,9 +1,11 @@
--    
-<h1 align="center">Hi 👋, I'm Nandu</h1>
+-
+<h1 align="center">
+Hi 👋, I'm <span style="font-weight:bold; background: linear-gradient(90deg,#ff4d4d,#ffcc00,#00ffcc,#3399ff); -webkit-background-clip:text; color:transparent;">Nandu Bodra</span>
+</h1>
 <h3 align="center">💻 java | DSA | Web Development Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;C+++Programmer;DSA+Learner;Future+Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile;java+Programmer;DSA+Learner;Future+Full+Stack+Developer" />
 </p>
 
 ---
@@ -11,7 +13,7 @@
 ## 🚀 About Me
 - passionate computer application learner with strong programming skills,         seeking opportunities to innovate and collaborate.
 - 🌱 I’m currently learning **Web Development & DSA**
-- 💻 Programming Languages **C, C++, JavaScript**
+- 💻 Programming Languages **Java,C, C++,Html,Css,JavaScript**
 - 🎯 Goal: Become **Full Stack Developer**
 - ⚡ Fun fact: I love **coding and building cool projects**
 
