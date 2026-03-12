@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nandubodra
-- 👀I am a passionate computer application learner with strong programming skills, seeking opportunities to innovate and collaborate.
+-    passionate computer application learner with strong programming skills, seeking opportunities to innovate and collaborate.
 
 <!---
 nandubodra/nandubodra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
