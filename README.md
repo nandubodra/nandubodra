@@ -41,7 +41,7 @@ Hi 👋, I'm <span style="font-weight:bold; background: linear-gradient(90deg,#f
 ## 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,git,github,vscode" />
 </p>
 
 ---
