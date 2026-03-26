@@ -90,4 +90,11 @@ Crafted with React & Tailwind to showcase skills and projects.
 
 ---
 
+## ❤️ Let’s Collaborate!
+I'm always up for contributing to impactful open-source projects, collaborating on interesting frontend/backend tools, or building mini products that solve real problems. Feel free to connect!
+
+---
+
+> _"Keep building, keep learning, and never stop growing."_ 🌱
+
 ⭐ From [Nandu Bodra](https://github.com/nandubodra/)
