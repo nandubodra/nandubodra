@@ -47,13 +47,6 @@ Hi 👋, I'm <span style="font-weight:bold; background: linear-gradient(90deg,#f
 ---
 ## 🔥 Featured Projects
 
-🔹 **🚗 Real-Time Vehicle Tracker with ROS + MapboxGL + Electron**  
-Cross-platform desktop app that shows live location updates using ROS subscriptions.
-
-🔹 **🛒 E-commerce Store - BigBasket Clone**  
-Built using React, Redux, and REST API — includes features like filtering, sorting, add-to-cart, and payments.  
-🔗 [Live Site](https://silly-narwhal-d2ab65.netlify.app)
-
 🔹 **📈 Personal Portfolio Website**  
 Crafted with React & Tailwind to showcase skills and projects.  
 🔗 [Visit Portfolio](https://nandubodra.github.io/PORTFOLIO/)
