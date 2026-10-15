@@ -1,0 +1,12 @@
+{
+  "title": "Language Stack",
+  "_comment": "Hand-authored language radar. Values 0-100. Edit these and the Charts workflow redraws it.",
+  "axes": [
+    { "label": "Java",       "value": 70 },
+    { "label": "C",          "value": 65 },
+    { "label": "C++",        "value": 60 },
+    { "label": "HTML",       "value": 80 },
+    { "label": "CSS",        "value": 75 },
+    { "label": "JavaScript", "value": 65 }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description. 'repo' must match the exact repository name on GitHub.",
+  "projects": [
+    {
+      "repo": "PORTFOLIO",
+      "description": "Personal portfolio website crafted with React & Tailwind to showcase my skills and projects."
+    }
+  ]
+}
